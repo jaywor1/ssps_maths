@@ -31,7 +31,7 @@ $7x - 3y + k = 0$
 
 > Doplníme bod $A$ do rovnice
 
-$7*1 - 3*2 + k = 0$
+$7\*1 - 3\*2 + k = 0$
 
 > Upravíme
 

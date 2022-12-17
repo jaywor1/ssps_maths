@@ -36,8 +36,34 @@ $ 1 + k = 0 $
 $ k = -1 $
 
 Dostaneme obecnou rovnici:
-$$ 7x - 3y -1 = 0 $$
+$$ 7x - 3y - 1 = 0 $$
 
-## 
+## Směrnicový tvar přímky
+Máme následující obecnou rovnici přímky z minulého cvičení $ 7x -3y - 1 = 0$
+
+Její směrnicový tvar znamená, že se snažíme vyjádřit $y$
+
+$ 7x - 3y - 1 = 0 $
+
+> Přesuneme vše y pravé strany kromě $-3y$
+
+$ -3y = -7x + 1 $
+
+> Vydělíme -3
+
+$ y = \frac{-7x + 1}{-3} $
+
+> Zkrášlíme 💖 a dostaneme řešení
+
+$$ y = -\frac{-7x +1}{3} $$
 
 ## Vztah mezi normálovým a směrovým vektorem
+Normálový vektor je kolmý na přímku => takže normálový vektor je kolmý na směrový vektor
+
+### Příklad
+Máme přímku se směrovým vektorem $\vec{s} = (3;7)$
+
+Její normálový vektor je: $\vec{n} = (-7;3)$
+
+Poznámka:
+> Pokud chceme zjistit nějaký vektor, který je kolmý na nějaký vektor, tak prohodíme souřadnice a před jedno ze souřednic přidáme 

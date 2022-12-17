@@ -1,4 +1,4 @@
 # SSPŠ MATHS
 
-### Best učitelka na matiku => Ing. Tamara Mainzerová
+### Best učitelka na matiku => Mgr. Tamara Mainzerová
 ### Luciánek 💘

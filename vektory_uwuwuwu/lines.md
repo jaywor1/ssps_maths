@@ -20,21 +20,21 @@ Máme bod $A = [1;2]$ a normálový vektor $\vec{n} = (7;-3)$
 
 Její parametrické vyjádření vypadá následně:
 
-$ 7x - 3y + k = 0 $
+$7x - 3y + k = 0$
 
 > Doplníme bod $A$ do rovnice
 
-$ 7*1 - 3*2 + k = 0 $
+$7*1 - 3*2 + k = 0$
 
 > Upravíme
 
-$ 7 - 6 + k = 0$
+$7 - 6 + k = 0$
 
-$ 1 + k = 0 $
+$1 + k = 0$
 
 > Vyjádříme $k$
 
-$ k = -1 $
+$k = -1$
 
 Dostaneme obecnou rovnici:
 
@@ -46,15 +46,15 @@ Máme následující obecnou rovnici přímky z minulého cvičení $ 7x -3y - 1
 
 Její směrnicový tvar znamená, že se snažíme vyjádřit $y$
 
-$ 7x - 3y - 1 = 0 $
+$7x - 3y - 1 = 0$
 
 > Přesuneme vše y pravé strany kromě $-3y$
 
-$ -3y = -7x + 1 $
+$-3y = -7x + 1$
 
 > Vydělíme -3
 
-$ y = \frac{-7x + 1}{-3} $
+$y = \frac{-7x + 1}{-3}$
 
 > Zkrášlíme 💖 a dostaneme řešení
 

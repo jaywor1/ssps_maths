@@ -1,24 +1,31 @@
 # Přímky
 
 ## Parametrické vyjádření přímky
-Máme bod $A = [1;2]$ a směrový vektor $\vec{s} = (3;7) $
-
 Obecně dostaneme parametrické vyjádření přímky takhle:
 
 $$ x = A_x + \vec{s}_x $$
 
 $$ y = A_y + \vec{s}_y $$
 
+Máme bod $A = [1;2]$ a směrový vektor $\vec{s} = (3;7)$
+
+
 > Dosadíme
+
 
 $$ x = 1 + 3t  $$
 
 $$ y = 2 + 7t  $$
 
 ## Obecná rovnice přímky v rovině
+
+Obecně dostaneme parametrické vyjádření přímky takhle:
+
+$$ \vec{n}_xx + \vec{n}_yy + k = 0 $$
+
 Máme bod $A = [1;2]$ a normálový vektor $\vec{n} = (7;-3)$
 
-Její parametrické vyjádření vypadá následně:
+> Dosadíme
 
 $7x - 3y + k = 0$
 
@@ -42,7 +49,7 @@ $$ 7x - 3y - 1 = 0 $$
 
 ## Směrnicový tvar přímky
 
-Máme následující obecnou rovnici přímky z minulého cvičení $ 7x -3y - 1 = 0$
+Máme následující obecnou rovnici přímky z minulého cvičení $7x -3y - 1 = 0$
 
 Její směrnicový tvar znamená, že se snažíme vyjádřit $y$
 
